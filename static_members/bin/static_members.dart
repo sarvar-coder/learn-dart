@@ -66,9 +66,4 @@ class Sphera {
   num get volume { 
     return 4/3 * Sphera.pi * _r * _r * _r;
   }
-
-
-
-
-
 }
